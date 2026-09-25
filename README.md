@@ -116,6 +116,9 @@
 
 本地医学 MCP 插件位于 [`nexent/medical-mcp`](nexent/medical-mcp/README.md)，当前提供 PubMed 检索、PDF 文本提取、本地 OCR、DICOM 元数据检查、病历脱敏、时间轴整理和眼底模型推理代理，共 9 个工具。
 
+本地模型与重排服务配置见 [
+exent/model-services](nexent/model-services/README.md)，当前已接入 Qwen3-VL 图片理解、BGE-M3 向量模型和 Jina 多语言重排模型。
+
 ---
 ## 团队
 
