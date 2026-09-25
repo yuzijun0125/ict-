@@ -112,6 +112,11 @@
 
 ---
 
+## Nexent 插件
+
+本地医学 MCP 插件位于 [`nexent/medical-mcp`](nexent/medical-mcp/README.md)，当前提供 PubMed 检索、PDF 文本提取、本地 OCR、DICOM 元数据检查、病历脱敏、时间轴整理和眼底模型推理代理，共 9 个工具。
+
+---
 ## 团队
 
 | 角色 | 姓名 | 职责 |
