@@ -1,4 +1,4 @@
-﻿import * as z from 'zod/v4';
+import * as z from 'zod/v4';
 import { errorResult, jsonResult, maskPhi } from './util.js';
 
 export function registerMedicalTools(server) {

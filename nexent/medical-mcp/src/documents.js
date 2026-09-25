@@ -1,4 +1,4 @@
-﻿import * as z from 'zod/v4';
+import * as z from 'zod/v4';
 import dicomParser from 'dicom-parser';
 import Tesseract from 'tesseract.js';
 import { jsonResult, maskPhi, readResource } from './util.js';

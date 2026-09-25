@@ -1,4 +1,4 @@
-﻿import fs from 'node:fs/promises';
+import fs from 'node:fs/promises';
 import path from 'node:path';
 
 export const allowedRoot = path.resolve(process.env.MEDICAL_MCP_ALLOWED_ROOT || process.cwd());

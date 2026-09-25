@@ -1,4 +1,4 @@
-﻿import * as z from 'zod/v4';
+import * as z from 'zod/v4';
 import { jsonResult, maskPhi } from './util.js';
 
 async function eutils(endpoint, params) {

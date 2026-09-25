@@ -1,4 +1,4 @@
-﻿# Nexent 眼底医学 MCP 插件
+# Nexent 眼底医学 MCP 插件
 
 本项目提供一个本地运行的 MCP Streamable HTTP 服务，为 Nexent 提供医学文献、病历文档、脱敏和眼底模型代理能力。
 
